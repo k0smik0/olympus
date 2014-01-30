@@ -2,7 +2,7 @@ Olympus is a set of frameworks aiding development Android apps based on geolocal
 <br/><br/>  
 Five framework partecipate to this "ecosystem":  
 
- * *Diane*: provides awareness behaviours to app code   
+ * *Diane*: provides awareness behaviours to app code (location/network/cache awareness)
   
   [https://github.com/k0smik0/diane](https://github.com/k0smik0/diane)  
  * *Socrates*: handle response to GooglePlaces rest query, binding from JSON to JAVA
@@ -12,11 +12,11 @@ Five framework partecipate to this "ecosystem":
 
   [https://github.com/k0smik0/ulysses](https://github.com/k0smik0/ulysses)
   
- * *Hermes*: development using mvc pattern is the right way
+ * *Hermes*: allows development using mvc pattern
 
   [https://github.com/k0smik0/hermes](https://github.com/k0smik0/hermes)
 
- * *Polaris/Kusor*, which provides better strategies for location retrieving
+ * *Polaris/Kusor*: give better strategies for location retrieving
   * Polaris, a set of interfaces: [https://github.com/k0smik0/polaris](https://github.com/k0smik0/polaris)
   * Kusor, the concrete engines: [https://github.com/k0smik0/kusor](https://github.com/k0smik0/kusor)
 
