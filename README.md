@@ -5,7 +5,7 @@ Five framework partecipate to this "ecosystem":
  * *Diane*: provides awareness behaviours to app code (location/network/cache awareness)
   
   [https://github.com/k0smik0/diane](https://github.com/k0smik0/diane)  
- * *Socrates*: handle response to GooglePlaces rest query, binding from JSON to JAVA
+ * *Socrates*: handles response to GooglePlaces rest query, binding from JSON to JAVA
   
   [https://github.com/k0smik0/socrates](https://github.com/k0smik0/socrates)
  * *Ulysses*: combining Diane with Socrates, it provides a location/network-aware Google Place search framework
