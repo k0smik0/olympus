@@ -23,7 +23,7 @@ Five framework partecipate to this "ecosystem":
 
 <br/>
 This is a simple presentation page. 
-See above links for details about each project.
+See above links for details about each project (including sample apps apk and youtube links to demo videos).
 <br/><br/><br/>
 
 --
