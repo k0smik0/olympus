@@ -26,6 +26,8 @@ This is a simple presentation page.
 See above links for details about each project (including sample apps apk and youtube links to demo videos).
 <br/><br/><br/>
 
+A technical details about the architectures of these frameworks is available here:<br/>
+[https://docs.google.com/file/d/0B5CxUDoGDKvkd1F0OEhfN2YxRGM](https://docs.google.com/file/d/0B5CxUDoGDKvkd1F0OEhfN2YxRGM) - This is my bachelor thesis in computer science engineering.<br/><br/>
 --
 
 Also:
