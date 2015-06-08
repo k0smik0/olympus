@@ -1,0 +1,23 @@
+#!/bin/sh
+
+PORT=`adb devices | grep emulator | awk '{print $1}' | cut -d"-" -f2`
+
+SEND_FIX="geo fix "
+ARGS="11.3768619 44.493477"
+
+#expect << EOF
+#spawn telnet localhost $PORT
+#expect -re ".*>"
+#send "$SEND_FIX\r"
+#expect -re ".*>"
+#send "exit\r"
+#EOF
+
+if [ $# -eq 2 ]
+then
+	ARGS="$1 $2"
+fi
+
+telnet localhost $PORT << EOF
+$SEND_FIX $ARGS
+EOF
